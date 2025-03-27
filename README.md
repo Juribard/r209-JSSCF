@@ -9,3 +9,4 @@ Organisation du travail de groupe:
 - Sacha =  Improvise
 - Come =  Improvise
 - Florian =  Improvise
+- Valo = Qu'est ce qu'il fait dans cette liste?
