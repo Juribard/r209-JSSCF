@@ -4,8 +4,8 @@ Les données à exploiter :
 - https://api.meteo-concept.com/
 
 Organisation du travail de groupe:  
-- Julien =   
-- Siméon =  
-- Sacha =  
-- Come =  
-- Florian =  
+- Julien = Improvise
+- Siméon =  Improvise
+- Sacha =  Improvise
+- Come =  Improvise
+- Florian =  Improvise
