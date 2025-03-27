@@ -1,6 +1,5 @@
-Organisation du travail de groupe:  
-Julien (admin)=   
+Organisation du travail de groupe:     
 Siméon =  
 Sacha =  
 Come =  
-Florian =  
+Florian =
