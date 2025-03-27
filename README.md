@@ -1,6 +1,6 @@
-Organisation du travail de groupe:
-Julien (admin)= 
-Siméon =
-Sacha =
-Come =
-Florian =
+Organisation du travail de groupe:  
+Julien (admin)=   
+Siméon =  
+Sacha =  
+Come =  
+Florian =  
