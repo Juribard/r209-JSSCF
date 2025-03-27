@@ -4,7 +4,7 @@ Les données à exploiter :
 - https://api.meteo-concept.com/
 
 Organisation du travail de groupe:  
-- Julien (admin)=   
+- Julien =   
 - Siméon =  
 - Sacha =  
 - Come =  
